@@ -1,0 +1,14 @@
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csproj.CoreCompileInputs.cache
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
+/home/darlison/projetos/csharp/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.deps.json
+/home/darlison/projetos/csharp/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.json
+/home/darlison/projetos/csharp/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.dev.json
+/home/darlison/projetos/csharp/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.dll
+/home/darlison/projetos/csharp/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.pdb
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorTargetAssemblyInfo.cache
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.dll
+/home/darlison/projetos/csharp/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.pdb
